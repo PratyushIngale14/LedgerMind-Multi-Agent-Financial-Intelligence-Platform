@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-08-15",
+    "event": "Started graduate school",
+    "category": "Life Event"
+  },
+  {
+    "date": "2025-01-10",
+    "event": "Took out $45,000 federal student loan",
+    "category": "Debt"
+  },
+  {
+    "date": "2025-06-01",
+    "event": "Began part-time research assistantship",
+    "category": "Income"
+  },
+  {
+    "date": "2026-01-15",
+    "event": "Started Data Product internship at CHG Healthcare",
+    "category": "Income"
+  },
+  {
+    "date": "2026-05-15",
+    "event": "Completed M.S. Data Science",
+    "category": "Life Event"
+  },
+  {
+    "date": "2026-05-20",
+    "event": "Started OPT employment authorization period",
+    "category": "Tax Status"
+  }
+]

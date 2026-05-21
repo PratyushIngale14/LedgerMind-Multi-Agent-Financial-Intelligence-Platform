@@ -1,0 +1,25 @@
+date,merchant,category,amount,type,account
+2025-12-01 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2025-12-01 18:47:03.122016,Lakeview Property Management,Rent,-1800.0,debit,Checking
+2025-12-08 18:47:03.122016,TXU Energy,Utilities,-143.94,debit,Checking
+2025-12-15 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-01-01 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-01-01 18:47:03.122016,Lakeview Property Management,Rent,-1800.0,debit,Checking
+2026-01-08 18:47:03.122016,TXU Energy,Utilities,-82.5,debit,Checking
+2026-01-15 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-02-01 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-02-01 18:47:03.122016,Lakeview Property Management,Rent,-1800.0,debit,Checking
+2026-02-08 18:47:03.122016,TXU Energy,Utilities,-107.5,debit,Checking
+2026-02-15 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-03-01 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-03-01 18:47:03.122016,Lakeview Property Management,Rent,-1800.0,debit,Checking
+2026-03-08 18:47:03.122016,TXU Energy,Utilities,-102.32,debit,Checking
+2026-03-15 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-04-01 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-04-01 18:47:03.122016,Lakeview Property Management,Rent,-1800.0,debit,Checking
+2026-04-08 18:47:03.122016,TXU Energy,Utilities,-153.65,debit,Checking
+2026-04-15 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-05-01 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking
+2026-05-01 18:47:03.122016,Lakeview Property Management,Rent,-1800.0,debit,Checking
+2026-05-08 18:47:03.122016,TXU Energy,Utilities,-147.67,debit,Checking
+2026-05-15 18:47:03.122016,Employer Inc. Payroll,Income,4200.0,credit,Checking

@@ -1,0 +1,44 @@
+[
+  {
+    "provider": "TXU Energy",
+    "category": "Electricity",
+    "avg_monthly": 135.0,
+    "due_day": 8,
+    "auto_pay": true
+  },
+  {
+    "provider": "Arlington Water Utilities",
+    "category": "Water",
+    "avg_monthly": 65.0,
+    "due_day": 15,
+    "auto_pay": true
+  },
+  {
+    "provider": "AT&T Fiber",
+    "category": "Internet",
+    "avg_monthly": 80.0,
+    "due_day": 20,
+    "auto_pay": true
+  },
+  {
+    "provider": "Verizon Wireless",
+    "category": "Mobile",
+    "avg_monthly": 95.0,
+    "due_day": 22,
+    "auto_pay": true
+  },
+  {
+    "provider": "Lakeview Property Management",
+    "category": "Rent",
+    "avg_monthly": 1800.0,
+    "due_day": 1,
+    "auto_pay": false
+  },
+  {
+    "provider": "Geico",
+    "category": "Auto Insurance",
+    "avg_monthly": 145.0,
+    "due_day": 10,
+    "auto_pay": true
+  }
+]

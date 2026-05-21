@@ -1,0 +1,10 @@
+{
+  "tax_year": 2026,
+  "primary_employer": "Employer Inc.",
+  "ytd_gross_income": 84000.0,
+  "ytd_federal_withholding": 11200.0,
+  "ytd_fica_withholding": 0.0,
+  "ytd_state_withholding": 0.0,
+  "filing_status": "Single",
+  "notes": "FICA withholding is zero because employee is on F-1 OPT and qualifies as a nonresident alien for tax purposes."
+}

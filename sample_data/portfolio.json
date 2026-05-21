@@ -1,0 +1,112 @@
+{
+  "account_type": "Taxable Brokerage",
+  "as_of_date": "2026-05-20",
+  "cash_balance": 8500.0,
+  "holdings": [
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "shares": 35,
+      "cost_basis": 145.2,
+      "current_price": 226.5,
+      "sector": "Technology",
+      "asset_class": "US Large Cap"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corp.",
+      "shares": 18,
+      "cost_basis": 280.0,
+      "current_price": 421.3,
+      "sector": "Technology",
+      "asset_class": "US Large Cap"
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "shares": 22,
+      "cost_basis": 132.5,
+      "current_price": 178.4,
+      "sector": "Technology",
+      "asset_class": "US Large Cap"
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA Corp.",
+      "shares": 12,
+      "cost_basis": 280.0,
+      "current_price": 138.2,
+      "sector": "Technology",
+      "asset_class": "US Large Cap"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
+      "shares": 25,
+      "cost_basis": 380.0,
+      "current_price": 512.8,
+      "sector": "Diversified",
+      "asset_class": "US Large Cap ETF"
+    },
+    {
+      "ticker": "VTI",
+      "name": "Vanguard Total Stock Market ETF",
+      "shares": 18,
+      "cost_basis": 215.0,
+      "current_price": 278.4,
+      "sector": "Diversified",
+      "asset_class": "US Total Market ETF"
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
+      "shares": 15,
+      "cost_basis": 320.0,
+      "current_price": 478.2,
+      "sector": "Technology",
+      "asset_class": "US Large Cap ETF"
+    },
+    {
+      "ticker": "VXUS",
+      "name": "Vanguard Total International Stock",
+      "shares": 30,
+      "cost_basis": 52.0,
+      "current_price": 61.8,
+      "sector": "Diversified",
+      "asset_class": "International ETF"
+    },
+    {
+      "ticker": "BND",
+      "name": "Vanguard Total Bond Market",
+      "shares": 12,
+      "cost_basis": 78.0,
+      "current_price": 72.5,
+      "sector": "Bonds",
+      "asset_class": "Bond ETF"
+    },
+    {
+      "ticker": "COIN",
+      "name": "Coinbase Global",
+      "shares": 8,
+      "cost_basis": 195.0,
+      "current_price": 245.8,
+      "sector": "Financial Services",
+      "asset_class": "Crypto-Related"
+    }
+  ],
+  "total_holdings_value": 50788.7,
+  "total_cost_basis": 38623.0,
+  "unrealized_gain": 12165.7,
+  "total_account_value": 59288.7,
+  "retirement_accounts": {
+    "401k": {
+      "balance": 42000.0,
+      "ytd_contribution": 12000.0,
+      "employer_match_pct": 4.0
+    },
+    "roth_ira": {
+      "balance": 18500.0,
+      "ytd_contribution": 4500.0
+    }
+  }
+}

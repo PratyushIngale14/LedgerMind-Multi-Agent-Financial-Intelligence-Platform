@@ -1,0 +1,305 @@
+date,merchant,category,amount,type,account
+2025-11-21 18:47:03.901557,CVS Pharmacy,Healthcare,-138.96,debit,Credit Card
+2025-11-21 18:47:03.901557,Whole Foods,Groceries,-75.63,debit,Credit Card
+2025-11-21 18:47:03.901557,Marriott,Travel,-329.75,debit,Credit Card
+2025-11-23 18:47:03.901557,Best Buy,Shopping,-52.93,debit,Credit Card
+2025-11-23 18:47:03.901557,Uber,Transportation,-55.35,debit,Credit Card
+2025-11-24 18:47:03.901557,Delta Airlines,Travel,-260.28,debit,Credit Card
+2025-11-25 18:47:03.901557,Spotify Concerts,Entertainment,-19.62,debit,Credit Card
+2025-11-26 18:47:03.901557,Amazon,Shopping,-115.14,debit,Credit Card
+2025-11-27 18:47:03.901557,CVS Pharmacy,Healthcare,-187.97,debit,Credit Card
+2025-11-27 18:47:03.901557,Best Buy,Shopping,-121.54,debit,Credit Card
+2025-11-29 18:47:03.901557,Airbnb,Travel,-219.81,debit,Credit Card
+2025-11-30 18:47:03.901557,Target,Shopping,-47.31,debit,Credit Card
+2025-11-30 18:47:03.901557,Best Buy,Shopping,-66.66,debit,Credit Card
+2025-12-01 18:47:03.901557,Trader Joe's,Groceries,-93.35,debit,Credit Card
+2025-12-01 18:47:03.901557,AMC Theaters,Entertainment,-49.83,debit,Credit Card
+2025-12-02 18:47:03.901557,Marriott,Travel,-100.0,debit,Credit Card
+2025-12-03 18:47:03.901557,Delta Airlines,Travel,-100.0,debit,Credit Card
+2025-12-03 18:47:03.901557,Walgreens,Healthcare,-98.69,debit,Credit Card
+2025-12-03 18:47:03.901557,Dental Clinic,Healthcare,-33.09,debit,Credit Card
+2025-12-03 18:47:03.901557,Marriott,Travel,-100.0,debit,Credit Card
+2025-12-03 18:47:03.901557,Local Diner,Dining,-11.79,debit,Credit Card
+2025-12-03 18:47:03.901557,Trader Joe's,Groceries,-44.64,debit,Credit Card
+2025-12-04 18:47:03.901557,Chevron,Transportation,-51.64,debit,Credit Card
+2025-12-05 18:47:03.901557,Spotify Concerts,Entertainment,-76.63,debit,Credit Card
+2025-12-05 18:47:03.901557,AMC Theaters,Entertainment,-24.82,debit,Credit Card
+2025-12-05 18:47:03.901557,Netflix,Subscriptions,-23.38,debit,Credit Card
+2025-12-05 18:47:03.901557,Spotify,Subscriptions,-11.3,debit,Credit Card
+2025-12-05 18:47:03.901557,Adobe Creative Cloud,Subscriptions,-16.33,debit,Credit Card
+2025-12-06 18:47:03.901557,Target,Shopping,-75.78,debit,Credit Card
+2025-12-06 18:47:03.901557,Target,Shopping,-65.26,debit,Credit Card
+2025-12-07 18:47:03.901557,Walgreens,Healthcare,-56.4,debit,Credit Card
+2025-12-07 18:47:03.901557,DoorDash,Dining,-18.84,debit,Credit Card
+2025-12-09 18:47:03.901557,Chipotle,Dining,-26.31,debit,Credit Card
+2025-12-09 18:47:03.901557,Delta Airlines,Travel,-646.57,debit,Credit Card
+2025-12-09 18:47:03.901557,Spotify Concerts,Entertainment,-15.0,debit,Credit Card
+2025-12-09 18:47:03.901557,AMC Theaters,Entertainment,-80.11,debit,Credit Card
+2025-12-10 18:47:03.901557,Marriott,Travel,-310.3,debit,Credit Card
+2025-12-11 18:47:03.901557,Trader Joe's,Groceries,-114.75,debit,Credit Card
+2025-12-11 18:47:03.901557,Walgreens,Healthcare,-20.54,debit,Credit Card
+2025-12-13 18:47:03.901557,Best Buy,Shopping,-163.23,debit,Credit Card
+2025-12-14 18:47:03.901557,DoorDash,Dining,-29.93,debit,Credit Card
+2025-12-15 18:47:03.901557,Dental Clinic,Healthcare,-47.17,debit,Credit Card
+2025-12-15 18:47:03.901557,Uber Eats,Dining,-20.62,debit,Credit Card
+2025-12-15 18:47:03.901557,Chevron,Transportation,-65.47,debit,Credit Card
+2025-12-15 18:47:03.901557,CVS Pharmacy,Healthcare,-41.61,debit,Credit Card
+2025-12-16 18:47:03.901557,Best Buy,Shopping,-20.0,debit,Credit Card
+2025-12-19 18:47:03.901557,Apple Store,Shopping,-240.89,debit,Credit Card
+2025-12-19 18:47:03.901557,Spotify Concerts,Entertainment,-60.37,debit,Credit Card
+2025-12-20 18:47:03.901557,CVS Pharmacy,Healthcare,-58.67,debit,Credit Card
+2025-12-20 18:47:03.901557,Uber Eats,Dining,-8.0,debit,Credit Card
+2025-12-20 18:47:03.901557,Chevron,Transportation,-43.49,debit,Credit Card
+2025-12-21 18:47:03.901557,Delta Airlines,Travel,-418.07,debit,Credit Card
+2025-12-23 18:47:03.901557,Delta Airlines,Travel,-1138.97,debit,Credit Card
+2025-12-23 18:47:03.901557,Starbucks,Dining,-24.48,debit,Credit Card
+2025-12-24 18:47:03.901557,Airbnb,Travel,-100.0,debit,Credit Card
+2025-12-24 18:47:03.901557,Dental Clinic,Healthcare,-21.23,debit,Credit Card
+2025-12-25 18:47:03.901557,Dental Clinic,Healthcare,-89.34,debit,Credit Card
+2025-12-25 18:47:03.901557,Walmart,Groceries,-115.93,debit,Credit Card
+2025-12-27 18:47:03.901557,Shell,Transportation,-41.99,debit,Credit Card
+2025-12-27 18:47:03.901557,Dental Clinic,Healthcare,-169.52,debit,Credit Card
+2025-12-28 18:47:03.901557,AMC Theaters,Entertainment,-34.9,debit,Credit Card
+2025-12-29 18:47:03.901557,Spotify Concerts,Entertainment,-18.13,debit,Credit Card
+2025-12-30 18:47:03.901557,Lyft,Transportation,-33.56,debit,Credit Card
+2025-12-30 18:47:03.901557,Shell,Transportation,-24.33,debit,Credit Card
+2025-12-30 18:47:03.901557,Airbnb,Travel,-542.08,debit,Credit Card
+2025-12-31 18:47:03.901557,Kroger,Groceries,-106.06,debit,Credit Card
+2025-12-31 18:47:03.901557,DoorDash,Dining,-40.66,debit,Credit Card
+2026-01-01 18:47:03.901557,Amazon,Shopping,-152.55,debit,Credit Card
+2026-01-01 18:47:03.901557,Target,Shopping,-110.79,debit,Credit Card
+2026-01-02 18:47:03.901557,Airbnb,Travel,-556.58,debit,Credit Card
+2026-01-03 18:47:03.901557,Local Diner,Dining,-29.4,debit,Credit Card
+2026-01-03 18:47:03.901557,Chevron,Transportation,-45.94,debit,Credit Card
+2026-01-03 18:47:03.901557,Delta Airlines,Travel,-185.69,debit,Credit Card
+2026-01-05 18:47:03.901557,Spotify,Subscriptions,-13.28,debit,Credit Card
+2026-01-05 18:47:03.901557,Adobe Creative Cloud,Subscriptions,-17.58,debit,Credit Card
+2026-01-05 18:47:03.901557,Netflix,Subscriptions,-10.45,debit,Credit Card
+2026-01-06 18:47:03.901557,Amazon,Shopping,-20.0,debit,Credit Card
+2026-01-06 18:47:03.901557,Best Buy,Shopping,-152.97,debit,Credit Card
+2026-01-06 18:47:03.901557,CVS Pharmacy,Healthcare,-117.93,debit,Credit Card
+2026-01-07 18:47:03.901557,Kroger,Groceries,-52.17,debit,Credit Card
+2026-01-07 18:47:03.901557,Chipotle,Dining,-13.69,debit,Credit Card
+2026-01-07 18:47:03.901557,Marriott,Travel,-326.38,debit,Credit Card
+2026-01-08 18:47:03.901557,Uber Eats,Dining,-23.84,debit,Credit Card
+2026-01-09 18:47:03.901557,Whole Foods,Groceries,-98.65,debit,Credit Card
+2026-01-09 18:47:03.901557,Spotify Concerts,Entertainment,-15.0,debit,Credit Card
+2026-01-09 18:47:03.901557,Delta Airlines,Travel,-389.64,debit,Credit Card
+2026-01-09 18:47:03.901557,Airbnb,Travel,-111.1,debit,Credit Card
+2026-01-11 18:47:03.901557,Delta Airlines,Travel,-693.15,debit,Credit Card
+2026-01-12 18:47:03.901557,DoorDash,Dining,-23.14,debit,Credit Card
+2026-01-12 18:47:03.901557,Uber Eats,Dining,-36.66,debit,Credit Card
+2026-01-12 18:47:03.901557,Lyft,Transportation,-30.95,debit,Credit Card
+2026-01-12 18:47:03.901557,Target,Shopping,-149.23,debit,Credit Card
+2026-01-13 18:47:03.901557,AMC Theaters,Entertainment,-15.0,debit,Credit Card
+2026-01-13 18:47:03.901557,Airbnb,Travel,-464.23,debit,Credit Card
+2026-01-14 18:47:03.901557,Spotify Concerts,Entertainment,-60.73,debit,Credit Card
+2026-01-14 18:47:03.901557,Spotify Concerts,Entertainment,-51.75,debit,Credit Card
+2026-01-14 18:47:03.901557,Dental Clinic,Healthcare,-15.0,debit,Credit Card
+2026-01-15 18:47:03.901557,CVS Pharmacy,Healthcare,-105.26,debit,Credit Card
+2026-01-15 18:47:03.901557,Dental Clinic,Healthcare,-88.04,debit,Credit Card
+2026-01-16 18:47:03.901557,Target,Shopping,-166.32,debit,Credit Card
+2026-01-16 18:47:03.901557,Kroger,Groceries,-107.84,debit,Credit Card
+2026-01-16 18:47:03.901557,H-E-B,Groceries,-130.42,debit,Credit Card
+2026-01-16 18:47:03.901557,Starbucks,Dining,-15.94,debit,Credit Card
+2026-01-17 18:47:03.901557,Whole Foods,Groceries,-91.6,debit,Credit Card
+2026-01-17 18:47:03.901557,Target,Shopping,-142.11,debit,Credit Card
+2026-01-19 18:47:03.901557,AMC Theaters,Entertainment,-24.32,debit,Credit Card
+2026-01-19 18:47:03.901557,Chipotle,Dining,-18.78,debit,Credit Card
+2026-01-21 18:47:03.901557,H-E-B,Groceries,-147.42,debit,Credit Card
+2026-01-21 18:47:03.901557,Kroger,Groceries,-88.21,debit,Credit Card
+2026-01-23 18:47:03.901557,Local Diner,Dining,-26.93,debit,Credit Card
+2026-01-25 18:47:03.901557,Uber Eats,Dining,-27.8,debit,Credit Card
+2026-01-25 18:47:03.901557,Spotify Concerts,Entertainment,-15.0,debit,Credit Card
+2026-01-26 18:47:03.901557,Uber Eats,Dining,-13.11,debit,Credit Card
+2026-01-28 18:47:03.901557,Apple Store,Shopping,-80.82,debit,Credit Card
+2026-01-28 18:47:03.901557,DoorDash,Dining,-17.88,debit,Credit Card
+2026-01-28 18:47:03.901557,Chipotle,Dining,-51.48,debit,Credit Card
+2026-01-28 18:47:03.901557,Marriott,Travel,-204.0,debit,Credit Card
+2026-01-29 18:47:03.901557,Walmart,Groceries,-101.2,debit,Credit Card
+2026-01-30 18:47:03.901557,Whole Foods,Groceries,-159.88,debit,Credit Card
+2026-01-30 18:47:03.901557,Airbnb,Travel,-328.78,debit,Credit Card
+2026-01-30 18:47:03.901557,Walgreens,Healthcare,-15.0,debit,Credit Card
+2026-01-30 18:47:03.901557,Lyft,Transportation,-25.39,debit,Credit Card
+2026-02-01 18:47:03.901557,Spotify Concerts,Entertainment,-15.0,debit,Credit Card
+2026-02-01 18:47:03.901557,Walmart,Groceries,-15.0,debit,Credit Card
+2026-02-02 18:47:03.901557,Starbucks,Dining,-8.0,debit,Credit Card
+2026-02-02 18:47:03.901557,Delta Airlines,Travel,-832.38,debit,Credit Card
+2026-02-03 18:47:03.901557,CVS Pharmacy,Healthcare,-29.99,debit,Credit Card
+2026-02-03 18:47:03.901557,Uber Eats,Dining,-27.99,debit,Credit Card
+2026-02-03 18:47:03.901557,CVS Pharmacy,Healthcare,-63.49,debit,Credit Card
+2026-02-04 18:47:03.901557,Lyft,Transportation,-32.29,debit,Credit Card
+2026-02-04 18:47:03.901557,Chipotle,Dining,-15.77,debit,Credit Card
+2026-02-05 18:47:03.901557,Netflix,Subscriptions,-10.4,debit,Credit Card
+2026-02-05 18:47:03.901557,Spotify,Subscriptions,-12.98,debit,Credit Card
+2026-02-05 18:47:03.901557,Adobe Creative Cloud,Subscriptions,-19.75,debit,Credit Card
+2026-02-05 18:47:03.901557,Whole Foods,Groceries,-96.24,debit,Credit Card
+2026-02-05 18:47:03.901557,Dental Clinic,Healthcare,-165.57,debit,Credit Card
+2026-02-07 18:47:03.901557,Trader Joe's,Groceries,-61.43,debit,Credit Card
+2026-02-07 18:47:03.901557,AMC Theaters,Entertainment,-31.32,debit,Credit Card
+2026-02-09 18:47:03.901557,Trader Joe's,Groceries,-15.0,debit,Credit Card
+2026-02-09 18:47:03.901557,DoorDash,Dining,-14.35,debit,Credit Card
+2026-02-09 18:47:03.901557,Walgreens,Healthcare,-87.59,debit,Credit Card
+2026-02-09 18:47:03.901557,DoorDash,Dining,-37.74,debit,Credit Card
+2026-02-09 18:47:03.901557,CVS Pharmacy,Healthcare,-15.0,debit,Credit Card
+2026-02-10 18:47:03.901557,Lyft,Transportation,-31.84,debit,Credit Card
+2026-02-10 18:47:03.901557,Marriott,Travel,-268.14,debit,Credit Card
+2026-02-10 18:47:03.901557,Walgreens,Healthcare,-137.64,debit,Credit Card
+2026-02-11 18:47:03.901557,Chevron,Transportation,-57.08,debit,Credit Card
+2026-02-11 18:47:03.901557,Starbucks,Dining,-21.41,debit,Credit Card
+2026-02-11 18:47:03.901557,Spotify Concerts,Entertainment,-57.85,debit,Credit Card
+2026-02-13 18:47:03.901557,H-E-B,Groceries,-97.97,debit,Credit Card
+2026-02-14 18:47:03.901557,Whole Foods,Groceries,-36.43,debit,Credit Card
+2026-02-14 18:47:03.901557,Spotify Concerts,Entertainment,-19.82,debit,Credit Card
+2026-02-14 18:47:03.901557,AMC Theaters,Entertainment,-46.1,debit,Credit Card
+2026-02-15 18:47:03.901557,Target,Shopping,-89.29,debit,Credit Card
+2026-02-15 18:47:03.901557,H-E-B,Groceries,-15.0,debit,Credit Card
+2026-02-15 18:47:03.901557,Trader Joe's,Groceries,-155.82,debit,Credit Card
+2026-02-15 18:47:03.901557,Apple Store,Shopping,-34.07,debit,Credit Card
+2026-02-16 18:47:03.901557,H-E-B,Groceries,-101.52,debit,Credit Card
+2026-02-16 18:47:03.901557,Trader Joe's,Groceries,-62.45,debit,Credit Card
+2026-02-17 18:47:03.901557,CVS Pharmacy,Healthcare,-72.25,debit,Credit Card
+2026-02-19 18:47:03.901557,Target,Shopping,-49.44,debit,Credit Card
+2026-02-19 18:47:03.901557,Amazon,Shopping,-20.0,debit,Credit Card
+2026-02-20 18:47:03.901557,Chevron,Transportation,-33.95,debit,Credit Card
+2026-02-20 18:47:03.901557,Best Buy,Shopping,-215.6,debit,Credit Card
+2026-02-20 18:47:03.901557,Amazon,Shopping,-20.0,debit,Credit Card
+2026-02-20 18:47:03.901557,Dental Clinic,Healthcare,-15.0,debit,Credit Card
+2026-02-21 18:47:03.901557,Spotify Concerts,Entertainment,-49.86,debit,Credit Card
+2026-02-24 18:47:03.901557,Local Diner,Dining,-35.35,debit,Credit Card
+2026-02-24 18:47:03.901557,CVS Pharmacy,Healthcare,-39.94,debit,Credit Card
+2026-02-24 18:47:03.901557,Spotify Concerts,Entertainment,-56.72,debit,Credit Card
+2026-02-24 18:47:03.901557,Walgreens,Healthcare,-60.63,debit,Credit Card
+2026-02-26 18:47:03.901557,Walmart,Groceries,-159.4,debit,Credit Card
+2026-02-26 18:47:03.901557,Amazon,Shopping,-186.03,debit,Credit Card
+2026-02-26 18:47:03.901557,Delta Airlines,Travel,-270.42,debit,Credit Card
+2026-02-27 18:47:03.901557,H-E-B,Groceries,-157.64,debit,Credit Card
+2026-02-28 18:47:03.901557,Chevron,Transportation,-55.68,debit,Credit Card
+2026-02-28 18:47:03.901557,Uber Eats,Dining,-8.0,debit,Credit Card
+2026-02-28 18:47:03.901557,Shell,Transportation,-36.85,debit,Credit Card
+2026-03-01 18:47:03.901557,Local Diner,Dining,-8.0,debit,Credit Card
+2026-03-03 18:47:03.901557,Amazon,Shopping,-208.13,debit,Credit Card
+2026-03-03 18:47:03.901557,Spotify Concerts,Entertainment,-72.26,debit,Credit Card
+2026-03-03 18:47:03.901557,Dental Clinic,Healthcare,-108.53,debit,Credit Card
+2026-03-03 18:47:03.901557,Chevron,Transportation,-51.43,debit,Credit Card
+2026-03-04 18:47:03.901557,Local Diner,Dining,-29.43,debit,Credit Card
+2026-03-04 18:47:03.901557,AMC Theaters,Entertainment,-41.53,debit,Credit Card
+2026-03-04 18:47:03.901557,Spotify Concerts,Entertainment,-47.79,debit,Credit Card
+2026-03-05 18:47:03.901557,Whole Foods,Groceries,-41.11,debit,Credit Card
+2026-03-05 18:47:03.901557,Uber,Transportation,-28.01,debit,Credit Card
+2026-03-05 18:47:03.901557,Target,Shopping,-90.42,debit,Credit Card
+2026-03-05 18:47:03.901557,Adobe Creative Cloud,Subscriptions,-18.84,debit,Credit Card
+2026-03-05 18:47:03.901557,Spotify,Subscriptions,-13.31,debit,Credit Card
+2026-03-05 18:47:03.901557,Netflix,Subscriptions,-18.17,debit,Credit Card
+2026-03-05 18:47:03.901557,AMC Theaters,Entertainment,-15.0,debit,Credit Card
+2026-03-06 18:47:03.901557,Apple Store,Shopping,-78.61,debit,Credit Card
+2026-03-06 18:47:03.901557,Local Diner,Dining,-8.99,debit,Credit Card
+2026-03-06 18:47:03.901557,Spotify Concerts,Entertainment,-51.41,debit,Credit Card
+2026-03-07 18:47:03.901557,Walmart,Groceries,-146.65,debit,Credit Card
+2026-03-07 18:47:03.901557,Shell,Transportation,-61.21,debit,Credit Card
+2026-03-08 18:47:03.901557,Marriott,Travel,-472.7,debit,Credit Card
+2026-03-09 18:47:03.901557,Whole Foods,Groceries,-166.9,debit,Credit Card
+2026-03-09 18:47:03.901557,Chevron,Transportation,-60.53,debit,Credit Card
+2026-03-09 18:47:03.901557,Spotify Concerts,Entertainment,-54.98,debit,Credit Card
+2026-03-10 18:47:03.901557,DoorDash,Dining,-47.34,debit,Credit Card
+2026-03-14 18:47:03.901557,Apple Store,Shopping,-160.23,debit,Credit Card
+2026-03-15 18:47:03.901557,Amazon,Shopping,-68.45,debit,Credit Card
+2026-03-16 18:47:03.901557,AMC Theaters,Entertainment,-79.45,debit,Credit Card
+2026-03-16 18:47:03.901557,Whole Foods,Groceries,-113.7,debit,Credit Card
+2026-03-17 18:47:03.901557,Amazon,Shopping,-116.46,debit,Credit Card
+2026-03-18 18:47:03.901557,Target,Shopping,-87.38,debit,Credit Card
+2026-03-18 18:47:03.901557,Marriott,Travel,-515.22,debit,Credit Card
+2026-03-19 18:47:03.901557,CVS Pharmacy,Healthcare,-15.0,debit,Credit Card
+2026-03-25 18:47:03.901557,Kroger,Groceries,-111.79,debit,Credit Card
+2026-03-26 18:47:03.901557,Shell,Transportation,-20.29,debit,Credit Card
+2026-03-26 18:47:03.901557,Chevron,Transportation,-50.08,debit,Credit Card
+2026-03-30 18:47:03.901557,AMC Theaters,Entertainment,-15.0,debit,Credit Card
+2026-03-31 18:47:03.901557,AMC Theaters,Entertainment,-44.25,debit,Credit Card
+2026-04-01 18:47:03.901557,Lyft,Transportation,-50.29,debit,Credit Card
+2026-04-03 18:47:03.901557,Starbucks,Dining,-37.77,debit,Credit Card
+2026-04-03 18:47:03.901557,Target,Shopping,-186.37,debit,Credit Card
+2026-04-04 18:47:03.901557,Delta Airlines,Travel,-213.89,debit,Credit Card
+2026-04-05 18:47:03.901557,Netflix,Subscriptions,-22.14,debit,Credit Card
+2026-04-05 18:47:03.901557,Spotify,Subscriptions,-10.1,debit,Credit Card
+2026-04-05 18:47:03.901557,Adobe Creative Cloud,Subscriptions,-22.09,debit,Credit Card
+2026-04-06 18:47:03.901557,CVS Pharmacy,Healthcare,-15.0,debit,Credit Card
+2026-04-07 18:47:03.901557,Marriott,Travel,-655.42,debit,Credit Card
+2026-04-07 18:47:03.901557,Local Diner,Dining,-45.5,debit,Credit Card
+2026-04-08 18:47:03.901557,Airbnb,Travel,-103.62,debit,Credit Card
+2026-04-08 18:47:03.901557,Airbnb,Travel,-857.14,debit,Credit Card
+2026-04-08 18:47:03.901557,Delta Airlines,Travel,-100.0,debit,Credit Card
+2026-04-09 18:47:03.901557,Chevron,Transportation,-36.26,debit,Credit Card
+2026-04-10 18:47:03.901557,Airbnb,Travel,-385.66,debit,Credit Card
+2026-04-11 18:47:03.901557,Walmart,Groceries,-93.73,debit,Credit Card
+2026-04-12 18:47:03.901557,Marriott,Travel,-1112.3,debit,Credit Card
+2026-04-12 18:47:03.901557,Delta Airlines,Travel,-673.17,debit,Credit Card
+2026-04-12 18:47:03.901557,Starbucks,Dining,-40.22,debit,Credit Card
+2026-04-13 18:47:03.901557,Marriott,Travel,-137.31,debit,Credit Card
+2026-04-13 18:47:03.901557,Uber,Transportation,-12.34,debit,Credit Card
+2026-04-14 18:47:03.901557,Chipotle,Dining,-26.91,debit,Credit Card
+2026-04-14 18:47:03.901557,Delta Airlines,Travel,-408.31,debit,Credit Card
+2026-04-15 18:47:03.901557,AMC Theaters,Entertainment,-36.26,debit,Credit Card
+2026-04-18 18:47:03.901557,Walgreens,Healthcare,-28.7,debit,Credit Card
+2026-04-19 18:47:03.901557,Shell,Transportation,-10.0,debit,Credit Card
+2026-04-20 18:47:03.901557,Marriott,Travel,-605.39,debit,Credit Card
+2026-04-21 18:47:03.901557,Whole Foods,Groceries,-88.97,debit,Credit Card
+2026-04-21 18:47:03.901557,Chevron,Transportation,-55.03,debit,Credit Card
+2026-04-21 18:47:03.901557,Spotify Concerts,Entertainment,-20.67,debit,Credit Card
+2026-04-21 18:47:03.901557,Lyft,Transportation,-50.02,debit,Credit Card
+2026-04-22 18:47:03.901557,Best Buy,Shopping,-36.99,debit,Credit Card
+2026-04-23 18:47:03.901557,Whole Foods,Groceries,-107.82,debit,Credit Card
+2026-04-24 18:47:03.901557,Apple Store,Shopping,-110.78,debit,Credit Card
+2026-04-25 18:47:03.901557,Uber,Transportation,-21.91,debit,Credit Card
+2026-04-27 18:47:03.901557,Amazon,Shopping,-59.24,debit,Credit Card
+2026-04-27 18:47:03.901557,Dental Clinic,Healthcare,-16.98,debit,Credit Card
+2026-04-29 18:47:03.901557,Local Diner,Dining,-36.57,debit,Credit Card
+2026-04-29 18:47:03.901557,Walmart,Groceries,-56.07,debit,Credit Card
+2026-04-29 18:47:03.901557,Dental Clinic,Healthcare,-115.32,debit,Credit Card
+2026-04-30 18:47:03.901557,H-E-B,Groceries,-182.35,debit,Credit Card
+2026-05-01 18:47:03.901557,Airbnb,Travel,-450.92,debit,Credit Card
+2026-05-01 18:47:03.901557,Lyft,Transportation,-49.76,debit,Credit Card
+2026-05-01 18:47:03.901557,AMC Theaters,Entertainment,-52.68,debit,Credit Card
+2026-05-02 18:47:03.901557,Kroger,Groceries,-148.21,debit,Credit Card
+2026-05-03 18:47:03.901557,Best Buy,Shopping,-64.52,debit,Credit Card
+2026-05-04 18:47:03.901557,Spotify Concerts,Entertainment,-41.89,debit,Credit Card
+2026-05-04 18:47:03.901557,Best Buy,Shopping,-165.81,debit,Credit Card
+2026-05-04 18:47:03.901557,AMC Theaters,Entertainment,-40.43,debit,Credit Card
+2026-05-05 18:47:03.901557,Lyft,Transportation,-32.97,debit,Credit Card
+2026-05-05 18:47:03.901557,Spotify Concerts,Entertainment,-15.0,debit,Credit Card
+2026-05-05 18:47:03.901557,Spotify,Subscriptions,-15.1,debit,Credit Card
+2026-05-05 18:47:03.901557,Adobe Creative Cloud,Subscriptions,-12.33,debit,Credit Card
+2026-05-05 18:47:03.901557,Netflix,Subscriptions,-20.47,debit,Credit Card
+2026-05-06 18:47:03.901557,Spotify Concerts,Entertainment,-42.82,debit,Credit Card
+2026-05-06 18:47:03.901557,Target,Shopping,-155.85,debit,Credit Card
+2026-05-07 18:47:03.901557,DoorDash,Dining,-27.48,debit,Credit Card
+2026-05-07 18:47:03.901557,Spotify Concerts,Entertainment,-67.07,debit,Credit Card
+2026-05-07 18:47:03.901557,AMC Theaters,Entertainment,-23.76,debit,Credit Card
+2026-05-08 18:47:03.901557,Uber,Transportation,-56.61,debit,Credit Card
+2026-05-08 18:47:03.901557,Delta Airlines,Travel,-145.05,debit,Credit Card
+2026-05-08 18:47:03.901557,Dental Clinic,Healthcare,-37.03,debit,Credit Card
+2026-05-08 18:47:03.901557,Best Buy,Shopping,-57.97,debit,Credit Card
+2026-05-08 18:47:03.901557,Capital Grille Steakhouse,Dining,-487.5,debit,Credit Card
+2026-05-10 18:47:03.901557,DoorDash,Dining,-12.16,debit,Credit Card
+2026-05-10 18:47:03.901557,Airbnb,Travel,-786.09,debit,Credit Card
+2026-05-10 18:47:03.901557,Best Buy,Shopping,-54.43,debit,Credit Card
+2026-05-10 18:47:03.901557,Netflix,Subscriptions,-15.99,debit,Credit Card
+2026-05-10 18:47:03.901557,Netflix,Subscriptions,-15.99,debit,Credit Card
+2026-05-12 18:47:03.901557,Walgreens,Healthcare,-103.48,debit,Credit Card
+2026-05-13 18:47:03.901557,Unknown Online Vendor,Shopping,-1000.0,debit,Credit Card
+2026-05-13 18:47:03.901557,Dental Clinic,Healthcare,-127.78,debit,Credit Card
+2026-05-13 18:47:03.901557,Uber Eats,Dining,-9.12,debit,Credit Card
+2026-05-14 18:47:03.901557,Dental Clinic,Healthcare,-34.35,debit,Credit Card
+2026-05-14 18:47:03.901557,Chipotle,Dining,-34.82,debit,Credit Card
+2026-05-16 18:47:03.901557,Uber,Transportation,-38.89,debit,Credit Card
+2026-05-16 18:47:03.901557,Trader Joe's,Groceries,-89.38,debit,Credit Card
+2026-05-17 18:47:03.901557,Starbucks,Dining,-53.23,debit,Credit Card
+2026-05-17 18:47:03.901557,Spotify Concerts,Entertainment,-71.77,debit,Credit Card
+2026-05-17 18:47:03.901557,Chipotle,Dining,-45.18,debit,Credit Card
+2026-05-18 18:47:03.901557,Trader Joe's,Groceries,-186.55,debit,Credit Card
+2026-05-18 18:47:03.901557,Dental Clinic,Healthcare,-86.2,debit,Credit Card
+2026-05-18 18:47:03.901557,Delta Airlines,Travel,-223.57,debit,Credit Card
+2026-05-18 18:47:03.901557,Walgreens,Healthcare,-53.33,debit,Credit Card
+2026-05-19 18:47:03.901557,AMC Theaters,Entertainment,-19.64,debit,Credit Card
+2026-05-19 18:47:03.901557,Spotify Concerts,Entertainment,-15.0,debit,Credit Card
+2026-05-20 18:47:03.901557,Walgreens,Healthcare,-123.51,debit,Credit Card
+2026-05-20 18:47:03.901557,Starbucks,Dining,-12.72,debit,Credit Card

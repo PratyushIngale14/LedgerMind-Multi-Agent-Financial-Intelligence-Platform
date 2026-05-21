@@ -1,0 +1,22 @@
+[
+  {
+    "loan_type": "Student Loan",
+    "lender": "Federal Direct",
+    "original_principal": 45000.0,
+    "current_balance": 38200.0,
+    "interest_rate": 5.5,
+    "monthly_payment": 425.0,
+    "remaining_months": 108,
+    "status": "Active"
+  },
+  {
+    "loan_type": "Auto Loan",
+    "lender": "Toyota Financial",
+    "original_principal": 28000.0,
+    "current_balance": 18500.0,
+    "interest_rate": 4.25,
+    "monthly_payment": 510.0,
+    "remaining_months": 38,
+    "status": "Active"
+  }
+]
