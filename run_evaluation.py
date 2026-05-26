@@ -15,7 +15,12 @@ import sys
 from pathlib import Path
 
 import pandas as pd
-from dotenv import load_dotenv
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 sys.path.insert(0, str(Path(__file__).parent))
 
@@ -25,8 +30,6 @@ from tools.llm_client import LLMClient
 from tools.rag_engine import MockRAGEngine
 from utils.audit_log import AuditLogger
 from utils.data_generator import save_all
-
-load_dotenv()
 
 
 def load_data():

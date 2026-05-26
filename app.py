@@ -16,7 +16,13 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
-from dotenv import load_dotenv
+
+# Load .env file for local development; skip silently on Streamlit Cloud (uses Secrets)
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 # Allow imports from project root
 sys.path.insert(0, str(Path(__file__).parent))
@@ -32,8 +38,6 @@ from ui.components import (
 from ui.styles import CUSTOM_CSS
 from utils.audit_log import AuditLogger
 from utils.data_generator import save_all
-
-load_dotenv()
 
 
 # Page config
